@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tshepiso_Mohatlane__Project_1.Datahandler">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAA=</HashCode>
+      <FileName>Datahandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.delegates">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>delegates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.END" Collapsed="true">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAgAAAAABAAAQBAAAA=</HashCode>
+      <FileName>END.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.Form1" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAA4AAAAAHAAAABAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.main_menue" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIhAAACAAABAAAACAAAACAIA4AAAAAHAAAQBAAAA=</HashCode>
+      <FileName>main menue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.multiplayer">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <InheritanceLine Type="Tshepiso_Mohatlane__Project_1.singleplayer" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="1.875" />
+        <Point X="2.205" Y="1.875" />
+        <Point X="2.205" Y="1.734" />
+        <Point X="2.768" Y="1.734" />
+        <Point X="2.768" Y="3.99" />
+        <Point X="2.205" Y="3.99" />
+        <Point X="2.205" Y="3.661" />
+        <Point X="2.318" Y="3.661" />
+        <Point X="2.318" Y="3" />
+        <Point X="2" Y="3" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAgEQAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>multiplayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.MULTIUSER" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIhAAACAAABABAACAQIACAMw7AAAgAAAAQQBQIAA=</HashCode>
+      <FileName>MULTIUSER.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.MyCustomException">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAgAAAAAIAAAAAAABAAAAA=</HashCode>
+      <FileName>MyCustomException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.Program" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.register" Collapsed="true">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAAAEGAAAQBAAAA=</HashCode>
+      <FileName>register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.signin" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAIAQAACAAABAAAACAAAACAAAYAAAAEGAAAQBAAAA=</HashCode>
+      <FileName>signin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.single" Collapsed="true">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAhAAACAAABABAACAQIACAMw7AAAgAAAAQQBQAAA=</HashCode>
+      <FileName>single.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.singleplayer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>singleplayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.Users">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAEAAAAAAAACAAAAAgAAAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.Properties.Resources">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tshepiso_Mohatlane__Project_1.Properties.Settings" Collapsed="true">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
